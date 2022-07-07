@@ -19,4 +19,5 @@ needs to be done.
   - Choose to save the work list when quit
   - Reload previously saved work list when reopen the file
 
-![image](https://user-images.githubusercontent.com/67666346/177731742-dbc41278-2e8f-4110-a9f2-c8f9ba95836a.png)
+
+<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://user-images.githubusercontent.com/67666346/177731742-dbc41278-2e8f-4110-a9f2-c8f9ba95836a.png)" width="300" height="200">
